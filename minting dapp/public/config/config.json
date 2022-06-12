@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD01BC8630C9E533fBdCacA24b0306089cbA28746",
+  "SCAN_LINK": "https://polygonscan.com/address/0xD01BC8630C9E533fBdCacA24b0306089cbA28746",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Weird Martians",
+  "SYMBOL": "WMS",
+  "MAX_SUPPLY": 10100,
+  "WEI_COST": 999000000000000000000, 
+  "DISPLAY_COST": 999,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/weird-martians-v2",
+  "SHOW_BACKGROUND": true
+}
